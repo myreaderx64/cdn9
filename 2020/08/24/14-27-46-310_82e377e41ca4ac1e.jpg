@@ -1,0 +1,737 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    >
+    <channel>
+        <title>New Scientist - News</title>
+    <description>New Scientist - News</description>
+    <link>https://www.newscientist.com/section/news/feed/content/?/build/images/img/ns-logo-scaled.png?ver=f022a65af845ed6866f00efe4b00a0af5323f6dd</link>
+    <image>
+      <title>New Scientist - News</title>
+      <url>/build/images/img/ns-logo-scaled.png?ver=f022a65af845ed6866f00efe4b00a0af5323f6dd</url>
+      <link>https://www.newscientist.com</link>
+    </image>
+    <sy:updatePeriod>daily</sy:updatePeriod>
+    <sy:updateFrequency>1</sy:updateFrequency>
+            <item>
+            <title>It is time to do away with outlandish claims and make science duller</title>
+            <link>https://www.newscientist.com/article/mg24732963-500-it-is-time-to-do-away-with-outlandish-claims-and-make-science-duller/?utm_campaign=RSS%7CNSNS&#038;utm_source=NSNS&#038;utm_medium=RSS&#038;utm_content=news</link>
+            <pubDate>Wed, 19 Aug 2020 18:00:00 +0000</pubDate>
+            <description>Hyped up claims and problems replicating research mean the values that make science so successful are being ignored. Science owes it to itself and the world to reform</description>
+            <guid isPermaLink="false">mg24732963-500-it-is-time-to-do-away-with-outlandish-claims-and-make-science-duller|2252266</guid>
+        </item>
+            <item>
+            <title>We now have the technology to develop vaccines that spread themselves</title>
+            <link>https://www.newscientist.com/article/mg24732960-100-we-now-have-the-technology-to-develop-vaccines-that-spread-themselves/?utm_campaign=RSS%7CNSNS&#038;utm_source=NSNS&#038;utm_medium=RSS&#038;utm_content=news</link>
+            <pubDate>Wed, 19 Aug 2020 18:00:00 +0000</pubDate>
+            <description>Prevention is better than cure, so we should start using genetic techniques to stop dangerous animal diseases jumping to humans, say Scott Nuismer and James Bull</description>
+            <guid isPermaLink="false">mg24732960-100-we-now-have-the-technology-to-develop-vaccines-that-spread-themselves|2252184</guid>
+        </item>
+            <item>
+            <title>Covid-19 news: UK cases level off as R number rises slightly</title>
+            <link>https://www.newscientist.com/article/2237475-covid-19-news-uk-cases-level-off-as-r-number-rises-slightly/?utm_campaign=RSS%7CNSNS&#038;utm_source=NSNS&#038;utm_medium=RSS&#038;utm_content=news</link>
+            <pubDate>Fri, 21 Aug 2020 17:00:39 +0000</pubDate>
+            <description>The latest coronavirus news updated every day including coronavirus cases, the latest news, features and interviews from New Scientist and essential information about the covid-19 pandemic</description>
+            <guid isPermaLink="false">2237475-covid-19-news-uk-cases-level-off-as-r-number-rises-slightly|2237475</guid>
+        </item>
+            <item>
+            <title>Man sees half of every face like it&#039;s melting due to rare brain lesion</title>
+            <link>https://www.newscientist.com/article/2252625-man-sees-half-of-every-face-like-its-melting-due-to-rare-brain-lesion/?utm_campaign=RSS%7CNSNS&#038;utm_source=NSNS&#038;utm_medium=RSS&#038;utm_content=news</link>
+            <pubDate>Fri, 21 Aug 2020 16:55:09 +0000</pubDate>
+            <description>
+
+
+
+
+
+
+A man with a rare brain lesion sees the right half of every face as if it is melting. This could suggest that each brain hemisphere typically processes one half of the face
+
+
+
+
+
+
+</description>
+            <guid isPermaLink="false">2252625-man-sees-half-of-every-face-like-its-melting-due-to-rare-brain-lesion|2252625</guid>
+        </item>
+            <item>
+            <title>Cancer tumour microbiome may predict a person&#039;s chances of survival</title>
+            <link>https://www.newscientist.com/article/2252636-cancer-tumour-microbiome-may-predict-a-persons-chances-of-survival/?utm_campaign=RSS%7CNSNS&#038;utm_source=NSNS&#038;utm_medium=RSS&#038;utm_content=news</link>
+            <pubDate>Fri, 21 Aug 2020 13:23:36 +0000</pubDate>
+            <description>The microbes embedded in a tumour seem to influence how a person&#039;s cancer will develop and how well they will respond to treatment</description>
+            <guid isPermaLink="false">2252636-cancer-tumour-microbiome-may-predict-a-persons-chances-of-survival|2252636</guid>
+        </item>
+            <item>
+            <title>How likely are you to be infected by the coronavirus on a flight?</title>
+            <link>https://www.newscientist.com/article/2252152-how-likely-are-you-to-be-infected-by-the-coronavirus-on-a-flight/?utm_campaign=RSS%7CNSNS&#038;utm_source=NSNS&#038;utm_medium=RSS&#038;utm_content=news</link>
+            <pubDate>Fri, 21 Aug 2020 09:00:29 +0000</pubDate>
+            <description>Hard evidence on the risks of in-flight transmission of coronavirus is scarce, but what we know suggests that flying may be less risky than other activities such as eating out or going to the pub</description>
+            <guid isPermaLink="false">2252152-how-likely-are-you-to-be-infected-by-the-coronavirus-on-a-flight|2252152</guid>
+        </item>
+            <item>
+            <title>Walking catfish may use their whole body to smell when on land</title>
+            <link>https://www.newscientist.com/article/2252646-walking-catfish-may-use-their-whole-body-to-smell-when-on-land/?utm_campaign=RSS%7CNSNS&#038;utm_source=NSNS&#038;utm_medium=RSS&#038;utm_content=news</link>
+            <pubDate>Thu, 20 Aug 2020 20:33:57 +0000</pubDate>
+            <description>Fish were not thought to be able to smell while on land because their olfactory systems evolved to work underwater, but the walking catfish can</description>
+            <guid isPermaLink="false">2252646-walking-catfish-may-use-their-whole-body-to-smell-when-on-land|2252646</guid>
+        </item>
+            <item>
+            <title>Sea turtles carrying thermometers could improve hurricane forecasts</title>
+            <link>https://www.newscientist.com/article/2252628-sea-turtles-carrying-thermometers-could-improve-hurricane-forecasts/?utm_campaign=RSS%7CNSNS&#038;utm_source=NSNS&#038;utm_medium=RSS&#038;utm_content=news</link>
+            <pubDate>Thu, 20 Aug 2020 16:57:13 +0000</pubDate>
+            <description>Loggerhead turtles carrying thermometers through the waters near a hurricane can log how the storm affects water temperatures, helping make better forecasts</description>
+            <guid isPermaLink="false">2252628-sea-turtles-carrying-thermometers-could-improve-hurricane-forecasts|2252628</guid>
+        </item>
+            <item>
+            <title>Extraordinary fossil shows ancient marine reptile swallowing huge prey</title>
+            <link>https://www.newscientist.com/article/2252470-extraordinary-fossil-shows-ancient-marine-reptile-swallowing-huge-prey/?utm_campaign=RSS%7CNSNS&#038;utm_source=NSNS&#038;utm_medium=RSS&#038;utm_content=news</link>
+            <pubDate>Thu, 20 Aug 2020 16:00:41 +0000</pubDate>
+            <description>An astonishing fossil shows a 5-metre-long ichthyosaur swallowed a 4-metre-long prey animal, but was injured and died before it could digest its massive meal</description>
+            <guid isPermaLink="false">2252470-extraordinary-fossil-shows-ancient-marine-reptile-swallowing-huge-prey|2252470</guid>
+        </item>
+            <item>
+            <title>Greenland lost more ice in 2019 than any other year on record</title>
+            <link>https://www.newscientist.com/article/2252371-greenland-lost-more-ice-in-2019-than-any-other-year-on-record/?utm_campaign=RSS%7CNSNS&#038;utm_source=NSNS&#038;utm_medium=RSS&#038;utm_content=news</link>
+            <pubDate>Thu, 20 Aug 2020 16:00:36 +0000</pubDate>
+            <description>Greenland lost 15 per cent more ice in 2019 than the previous record, set in 2012. The loss of its ice sheet may already be unstoppable</description>
+            <guid isPermaLink="false">2252371-greenland-lost-more-ice-in-2019-than-any-other-year-on-record|2252371</guid>
+        </item>
+            <item>
+            <title>Eye-tracking mask could monitor people’s reactions to what they see</title>
+            <link>https://www.newscientist.com/article/2252575-eye-tracking-mask-could-monitor-peoples-reactions-to-what-they-see/?utm_campaign=RSS%7CNSNS&#038;utm_source=NSNS&#038;utm_medium=RSS&#038;utm_content=news</link>
+            <pubDate>Thu, 20 Aug 2020 16:00:02 +0000</pubDate>
+            <description>A mask with fabric electrodes can monitor eye movements and heartbeat, which could be useful for studying people&#039;s responses to things that they view</description>
+            <guid isPermaLink="false">2252575-eye-tracking-mask-could-monitor-peoples-reactions-to-what-they-see|2252575</guid>
+        </item>
+            <item>
+            <title>Watching an explainer video can boost your IQ score by 18 points</title>
+            <link>https://www.newscientist.com/article/2252259-watching-an-explainer-video-can-boost-your-iq-score-by-18-points/?utm_campaign=RSS%7CNSNS&#038;utm_source=NSNS&#038;utm_medium=RSS&#038;utm_content=news</link>
+            <pubDate>Thu, 20 Aug 2020 15:25:38 +0000</pubDate>
+            <description>People who were taught the “rules” of a type of IQ test in which you guess the next in a series of shapes got a significantly higher score – throwing into question the validity of these tests</description>
+            <guid isPermaLink="false">2252259-watching-an-explainer-video-can-boost-your-iq-score-by-18-points|2252259</guid>
+        </item>
+            <item>
+            <title>Secret to tardigrades&#039; toughness revealed by supercomputer simulation</title>
+            <link>https://www.newscientist.com/article/2252583-secret-to-tardigrades-toughness-revealed-by-supercomputer-simulation/?utm_campaign=RSS%7CNSNS&#038;utm_source=NSNS&#038;utm_medium=RSS&#038;utm_content=news</link>
+            <pubDate>Thu, 20 Aug 2020 14:35:16 +0000</pubDate>
+            <description>Tardigrades can survive extreme temperatures and the vacuum of space – a supercomputer simulation of the behaviour of 750,000 atoms in and around its DNA help explain why</description>
+            <guid isPermaLink="false">2252583-secret-to-tardigrades-toughness-revealed-by-supercomputer-simulation|2252583</guid>
+        </item>
+            <item>
+            <title>We should rewild the sky to restore the atmosphere to its former glory</title>
+            <link>https://www.newscientist.com/article/mg24732960-200-we-should-rewild-the-sky-to-restore-the-atmosphere-to-its-former-glory/?utm_campaign=RSS%7CNSNS&#038;utm_source=NSNS&#038;utm_medium=RSS&#038;utm_content=news</link>
+            <pubDate>Wed, 19 Aug 2020 18:00:00 +0000</pubDate>
+            <description>Let&#039;s take inspiration from the way we intervene to help degraded ecosystems recover and attempt to restore the atmosphere back to full health, writes Graham Lawton</description>
+            <guid isPermaLink="false">mg24732960-200-we-should-rewild-the-sky-to-restore-the-atmosphere-to-its-former-glory|2252185</guid>
+        </item>
+            <item>
+            <title>Beetlebot carries heavy loads using alcohol-powered artificial muscles</title>
+            <link>https://www.newscientist.com/article/2252233-beetlebot-carries-heavy-loads-using-alcohol-powered-artificial-muscles/?utm_campaign=RSS%7CNSNS&#038;utm_source=NSNS&#038;utm_medium=RSS&#038;utm_content=news</link>
+            <pubDate>Wed, 19 Aug 2020 19:00:45 +0000</pubDate>
+            <description>One of the world’s smallest microrobots is able to carry 2.6 times its own body weight thanks to a muscular system powered by methanol</description>
+            <guid isPermaLink="false">2252233-beetlebot-carries-heavy-loads-using-alcohol-powered-artificial-muscles|2252233</guid>
+        </item>
+            <item>
+            <title>Millions of missing female births predicted in India in next decade</title>
+            <link>https://www.newscientist.com/article/2252285-millions-of-missing-female-births-predicted-in-india-in-next-decade/?utm_campaign=RSS%7CNSNS&#038;utm_source=NSNS&#038;utm_medium=RSS&#038;utm_content=news</link>
+            <pubDate>Wed, 19 Aug 2020 19:00:34 +0000</pubDate>
+            <description>There could be 6.8 million fewer girls born in India between 2017 and 2030 than would be expected without practices such as sex-selective abortion</description>
+            <guid isPermaLink="false">2252285-millions-of-missing-female-births-predicted-in-india-in-next-decade|2252285</guid>
+        </item>
+            <item>
+            <title>Secret to dinosaurs’ huge size may be in unusually lightweight bones</title>
+            <link>https://www.newscientist.com/article/2252396-secret-to-dinosaurs-huge-size-may-be-in-unusually-lightweight-bones/?utm_campaign=RSS%7CNSNS&#038;utm_source=NSNS&#038;utm_medium=RSS&#038;utm_content=news</link>
+            <pubDate>Wed, 19 Aug 2020 19:00:24 +0000</pubDate>
+            <description>We have discovered a new factor that helped dinosaurs attain gigantic sizes: their bones were built differently from other animals to be less dense without sacrificing strength</description>
+            <guid isPermaLink="false">2252396-secret-to-dinosaurs-huge-size-may-be-in-unusually-lightweight-bones|2252396</guid>
+        </item>
+            <item>
+            <title>A new type of plastic may be the first that is infinitely recyclable</title>
+            <link>https://www.newscientist.com/article/2252265-a-new-type-of-plastic-may-be-the-first-that-is-infinitely-recyclable/?utm_campaign=RSS%7CNSNS&#038;utm_source=NSNS&#038;utm_medium=RSS&#038;utm_content=news</link>
+            <pubDate>Wed, 19 Aug 2020 19:00:23 +0000</pubDate>
+            <description>A plastic that can be easily broken down and remoulded into high-quality products should make recycling easier and reduce plastic waste entering the environment</description>
+            <guid isPermaLink="false">2252265-a-new-type-of-plastic-may-be-the-first-that-is-infinitely-recyclable|2252265</guid>
+        </item>
+            <item>
+            <title>Cancer cells can pick up fatty coatings to spread further in the body</title>
+            <link>https://www.newscientist.com/article/2252257-cancer-cells-can-pick-up-fatty-coatings-to-spread-further-in-the-body/?utm_campaign=RSS%7CNSNS&#038;utm_source=NSNS&#038;utm_medium=RSS&#038;utm_content=news</link>
+            <pubDate>Wed, 19 Aug 2020 16:00:39 +0000</pubDate>
+            <description>Some cancer cells spread through the lymphatic system where they can pick up a jacket of fatty acids that protect them against damage and let them travel further in the body</description>
+            <guid isPermaLink="false">2252257-cancer-cells-can-pick-up-fatty-coatings-to-spread-further-in-the-body|2252257</guid>
+        </item>
+            <item>
+            <title>Strange fast-moving clouds of gas may be suffocating the Milky Way</title>
+            <link>https://www.newscientist.com/article/2252097-strange-fast-moving-clouds-of-gas-may-be-suffocating-the-milky-way/?utm_campaign=RSS%7CNSNS&#038;utm_source=NSNS&#038;utm_medium=RSS&#038;utm_content=news</link>
+            <pubDate>Wed, 19 Aug 2020 16:00:27 +0000</pubDate>
+            <description>There are clouds of cold hydrogen gas hurtling at extraordinary speeds away from the centre of our galaxy, and this may be stifling star formation</description>
+            <guid isPermaLink="false">2252097-strange-fast-moving-clouds-of-gas-may-be-suffocating-the-milky-way|2252097</guid>
+        </item>
+            <item>
+            <title>Has herd immunity really been achieved in some places?</title>
+            <link>https://www.newscientist.com/article/mg24732964-000-has-herd-immunity-really-been-achieved-in-some-places/?utm_campaign=RSS%7CNSNS&#038;utm_source=NSNS&#038;utm_medium=RSS&#038;utm_content=news</link>
+            <pubDate>Wed, 19 Aug 2020 11:10:00 +0000</pubDate>
+            <description>Despite the claims that some places including pockets of London and New York have reached herd immunity to the coronavirus, the picture is far more complex</description>
+            <guid isPermaLink="false">mg24732964-000-has-herd-immunity-really-been-achieved-in-some-places|2252271</guid>
+        </item>
+            <item>
+            <title>Coronavirus essential guide: Everything you need to know on covid-19</title>
+            <link>https://www.newscientist.com/article/2251798-coronavirus-essential-guide-everything-you-need-to-know-on-covid-19/?utm_campaign=RSS%7CNSNS&#038;utm_source=NSNS&#038;utm_medium=RSS&#038;utm_content=news</link>
+            <pubDate>Tue, 18 Aug 2020 15:59:28 +0000</pubDate>
+            <description>After more than six months since the new coronavirus emerged, we have learned an incredible amount about the virus and covid-19. Discover our essential  guide, bringing you the best, most relevant coverage from New Scientist</description>
+            <guid isPermaLink="false">2251798-coronavirus-essential-guide-everything-you-need-to-know-on-covid-19|2251798</guid>
+        </item>
+            <item>
+            <title>Hundreds of UK ambulances rely on software vulnerable to cyberattack</title>
+            <link>https://www.newscientist.com/article/2252227-hundreds-of-uk-ambulances-rely-on-software-vulnerable-to-cyberattack/?utm_campaign=RSS%7CNSNS&#038;utm_source=NSNS&#038;utm_medium=RSS&#038;utm_content=news</link>
+            <pubDate>Tue, 18 Aug 2020 16:53:38 +0000</pubDate>
+            <description>Ambulances at North East Ambulance Service and Yorkshire Ambulance Service use data terminals that rely on Windows XP, which no longer gets security updates from Microsoft so can be susceptible to hackers</description>
+            <guid isPermaLink="false">2252227-hundreds-of-uk-ambulances-rely-on-software-vulnerable-to-cyberattack|2252227</guid>
+        </item>
+            <item>
+            <title>An AI built by Facebook could drastically speed up MRI scans</title>
+            <link>https://www.newscientist.com/article/2252012-an-ai-built-by-facebook-could-drastically-speed-up-mri-scans/?utm_campaign=RSS%7CNSNS&#038;utm_source=NSNS&#038;utm_medium=RSS&#038;utm_content=news</link>
+            <pubDate>Tue, 18 Aug 2020 16:00:49 +0000</pubDate>
+            <description>An AI system, built by researchers at Facebook and NYU Langone, can produce MRI scans with only a quarter of the data normally required, which could speed up the scanning process</description>
+            <guid isPermaLink="false">2252012-an-ai-built-by-facebook-could-drastically-speed-up-mri-scans|2252012</guid>
+        </item>
+            <item>
+            <title>Return of covid-19 to New Zealand shows that no one can relax</title>
+            <link>https://www.newscientist.com/article/2252136-return-of-covid-19-to-new-zealand-shows-that-no-one-can-relax/?utm_campaign=RSS%7CNSNS&#038;utm_source=NSNS&#038;utm_medium=RSS&#038;utm_content=news</link>
+            <pubDate>Tue, 18 Aug 2020 15:52:47 +0000</pubDate>
+            <description>New Zealand has acted swiftly to contain a new outbreak of covid-19 after going 102 days virus-free, but it’s still unclear whether it can stamp it out again</description>
+            <guid isPermaLink="false">2252136-return-of-covid-19-to-new-zealand-shows-that-no-one-can-relax|2252136</guid>
+        </item>
+            <item>
+            <title>Covid-19: How can we travel abroad safely during the pandemic?</title>
+            <link>https://www.newscientist.com/article/2252153-covid-19-how-can-we-travel-abroad-safely-during-the-pandemic/?utm_campaign=RSS%7CNSNS&#038;utm_source=NSNS&#038;utm_medium=RSS&#038;utm_content=news</link>
+            <pubDate>Tue, 18 Aug 2020 14:37:43 +0000</pubDate>
+            <description>Many countries have seen an increase in coronavirus cases, making going abroad more of a gamble. But there are options for managing the current risks from foreign travel</description>
+            <guid isPermaLink="false">2252153-covid-19-how-can-we-travel-abroad-safely-during-the-pandemic|2252153</guid>
+        </item>
+            <item>
+            <title>Borneo’s ‘carnivorous’ squirrel actually mainly eats one kind of seed</title>
+            <link>https://www.newscientist.com/article/2251844-borneos-carnivorous-squirrel-actually-mainly-eats-one-kind-of-seed/?utm_campaign=RSS%7CNSNS&#038;utm_source=NSNS&#038;utm_medium=RSS&#038;utm_content=news</link>
+            <pubDate>Tue, 18 Aug 2020 10:00:56 +0000</pubDate>
+            <description>The Bornean tufted ground squirrel reputedly kills and eats deer – but the first scientific study of the rodent suggests it mainly feeds on the seeds of one tree</description>
+            <guid isPermaLink="false">2251844-borneos-carnivorous-squirrel-actually-mainly-eats-one-kind-of-seed|2251844</guid>
+        </item>
+            <item>
+            <title>Your smartphone could tell if you are drunk by analysing your walk</title>
+            <link>https://www.newscientist.com/article/2252019-your-smartphone-could-tell-if-you-are-drunk-by-analysing-your-walk/?utm_campaign=RSS%7CNSNS&#038;utm_source=NSNS&#038;utm_medium=RSS&#038;utm_content=news</link>
+            <pubDate>Tue, 18 Aug 2020 06:00:50 +0000</pubDate>
+            <description>Studies suggest that when people are impaired by alcohol they often don&#039;t realise. Now your smartphone could alert you by analysing the way you walk</description>
+            <guid isPermaLink="false">2252019-your-smartphone-could-tell-if-you-are-drunk-by-analysing-your-walk|2252019</guid>
+        </item>
+            <item>
+            <title>Mindfulness and meditation can worsen depression and anxiety</title>
+            <link>https://www.newscientist.com/article/2251840-mindfulness-and-meditation-can-worsen-depression-and-anxiety/?utm_campaign=RSS%7CNSNS&#038;utm_source=NSNS&#038;utm_medium=RSS&#038;utm_content=news</link>
+            <pubDate>Fri, 14 Aug 2020 10:00:21 +0000</pubDate>
+            <description>The first systematic review of the evidence on meditation suggests that 8 per cent of people experience a negative effect such as depression, anxiety, psychosis or thoughts of suicide</description>
+            <guid isPermaLink="false">2251840-mindfulness-and-meditation-can-worsen-depression-and-anxiety|2251840</guid>
+        </item>
+            <item>
+            <title>Is Sweden&#039;s coronavirus strategy a cautionary tale or a success story?</title>
+            <link>https://www.newscientist.com/article/2251615-is-swedens-coronavirus-strategy-a-cautionary-tale-or-a-success-story/?utm_campaign=RSS%7CNSNS&#038;utm_source=NSNS&#038;utm_medium=RSS&#038;utm_content=news</link>
+            <pubDate>Thu, 13 Aug 2020 12:17:06 +0000</pubDate>
+            <description>Despite claims that soft lockdown was a good idea, so far Sweden has had more covid-19 related deaths than its Scandinavian neighbours with little difference in economic slowdown</description>
+            <guid isPermaLink="false">2251615-is-swedens-coronavirus-strategy-a-cautionary-tale-or-a-success-story|2251615</guid>
+        </item>
+            <item>
+            <title>Simple technique could help find microplastics inside the human body</title>
+            <link>https://www.newscientist.com/article/2251975-simple-technique-could-help-find-microplastics-inside-the-human-body/?utm_campaign=RSS%7CNSNS&#038;utm_source=NSNS&#038;utm_medium=RSS&#038;utm_content=news</link>
+            <pubDate>Mon, 17 Aug 2020 10:00:19 +0000</pubDate>
+            <description>Researchers have developed a method of detecting microplastics in human tissue samples to help investigate the impact of plastic pollution on the body</description>
+            <guid isPermaLink="false">2251975-simple-technique-could-help-find-microplastics-inside-the-human-body|2251975</guid>
+        </item>
+            <item>
+            <title>Virtual assistant will screen your phone calls to block spammers</title>
+            <link>https://www.newscientist.com/article/2251898-virtual-assistant-will-screen-your-phone-calls-to-block-spammers/?utm_campaign=RSS%7CNSNS&#038;utm_source=NSNS&#038;utm_medium=RSS&#038;utm_content=news</link>
+            <pubDate>Mon, 17 Aug 2020 10:00:03 +0000</pubDate>
+            <description>A virtual assistant that prompts callers to say your name before connecting is able to screen out robocallers without you being disturbed</description>
+            <guid isPermaLink="false">2251898-virtual-assistant-will-screen-your-phone-calls-to-block-spammers|2251898</guid>
+        </item>
+            <item>
+            <title>We must think globally not nationalistically to beat the coronavirus</title>
+            <link>https://www.newscientist.com/article/mg24732953-300-we-must-think-globally-not-nationalistically-to-beat-the-coronavirus/?utm_campaign=RSS%7CNSNS&#038;utm_source=NSNS&#038;utm_medium=RSS&#038;utm_content=news</link>
+            <pubDate>Wed, 12 Aug 2020 18:00:00 +0000</pubDate>
+            <description>The response to the 2009 flu pandemic was blighted by nationalistic government action. We can’t let it happen again – the coronavirus is a global problem that needs a global solution</description>
+            <guid isPermaLink="false">mg24732953-300-we-must-think-globally-not-nationalistically-to-beat-the-coronavirus|2251681</guid>
+        </item>
+            <item>
+            <title>Are pets at risk of getting covid-19 and can they spread it to people?</title>
+            <link>https://www.newscientist.com/article/2251572-are-pets-at-risk-of-getting-covid-19-and-can-they-spread-it-to-people/?utm_campaign=RSS%7CNSNS&#038;utm_source=NSNS&#038;utm_medium=RSS&#038;utm_content=news</link>
+            <pubDate>Mon, 17 Aug 2020 09:00:31 +0000</pubDate>
+            <description>Cats and dogs are able to catch the coronavirus and could potentially spread it to people, meaning we should really extend social distancing rules to pets</description>
+            <guid isPermaLink="false">2251572-are-pets-at-risk-of-getting-covid-19-and-can-they-spread-it-to-people|2251572</guid>
+        </item>
+            <item>
+            <title>Why a fight over Fortnite could decide the future of big tech</title>
+            <link>https://www.newscientist.com/article/2251930-why-a-fight-over-fortnite-could-decide-the-future-of-big-tech/?utm_campaign=RSS%7CNSNS&#038;utm_source=NSNS&#038;utm_medium=RSS&#038;utm_content=news</link>
+            <pubDate>Fri, 14 Aug 2020 15:34:31 +0000</pubDate>
+            <description>Apple and Google have long held firm control over which apps can be sold on their devices, but lawsuits from the developer of the mega popular game Fortnite could change that</description>
+            <guid isPermaLink="false">2251930-why-a-fight-over-fortnite-could-decide-the-future-of-big-tech|2251930</guid>
+        </item>
+            <item>
+            <title>Rare plant may prevent the first lithium quarry in the US from opening</title>
+            <link>https://www.newscientist.com/article/2251905-rare-plant-may-prevent-the-first-lithium-quarry-in-the-us-from-opening/?utm_campaign=RSS%7CNSNS&#038;utm_source=NSNS&#038;utm_medium=RSS&#038;utm_content=news</link>
+            <pubDate>Fri, 14 Aug 2020 15:11:19 +0000</pubDate>
+            <description>Tiehm’s buckwheat is an extremely rare plant that thrives in soil containing lithium and boron. Both elements are vital for renewable energy technologies, but mining for them will destroy most of the plant&#039;s habitat</description>
+            <guid isPermaLink="false">2251905-rare-plant-may-prevent-the-first-lithium-quarry-in-the-us-from-opening|2251905</guid>
+        </item>
+            <item>
+            <title>Plant protein responds to radio waves by making seedlings grow faster</title>
+            <link>https://www.newscientist.com/article/2251835-plant-protein-responds-to-radio-waves-by-making-seedlings-grow-faster/?utm_campaign=RSS%7CNSNS&#038;utm_source=NSNS&#038;utm_medium=RSS&#038;utm_content=news</link>
+            <pubDate>Fri, 14 Aug 2020 12:00:54 +0000</pubDate>
+            <description>A type of protein found in plants and animals called a cryptochrome seems to respond to radio waves, changing how genes in thale cress seedlings are expressed. The find could have applications in farming and medicine</description>
+            <guid isPermaLink="false">2251835-plant-protein-responds-to-radio-waves-by-making-seedlings-grow-faster|2251835</guid>
+        </item>
+            <item>
+            <title>The fastest star in our galaxy moves at 8 per cent the speed of light</title>
+            <link>https://www.newscientist.com/article/2251894-the-fastest-star-in-our-galaxy-moves-at-8-per-cent-the-speed-of-light/?utm_campaign=RSS%7CNSNS&#038;utm_source=NSNS&#038;utm_medium=RSS&#038;utm_content=news</link>
+            <pubDate>Fri, 14 Aug 2020 11:27:41 +0000</pubDate>
+            <description>Astronomers have spotted the fastest star ever, whizzing at 8 per cent the speed of light around our galaxy’s supermassive black hole closer than any star we’ve seen before</description>
+            <guid isPermaLink="false">2251894-the-fastest-star-in-our-galaxy-moves-at-8-per-cent-the-speed-of-light|2251894</guid>
+        </item>
+            <item>
+            <title>Fast food consumption is on the rise among US children and adolescents</title>
+            <link>https://www.newscientist.com/article/2251802-fast-food-consumption-is-on-the-rise-among-us-children-and-adolescents/?utm_campaign=RSS%7CNSNS&#038;utm_source=NSNS&#038;utm_medium=RSS&#038;utm_content=news</link>
+            <pubDate>Fri, 14 Aug 2020 05:01:27 +0000</pubDate>
+            <description>Children in the US gain an average of 14 per cent of their daily calories from fast food – up from about 11 per cent a decade ago – according to the US Centers for Disease Control and Prevention</description>
+            <guid isPermaLink="false">2251802-fast-food-consumption-is-on-the-rise-among-us-children-and-adolescents|2251802</guid>
+        </item>
+            <item>
+            <title>Earliest known beds are 227,000-year-old piles of grass and ash</title>
+            <link>https://www.newscientist.com/article/2251738-earliest-known-beds-are-227000-year-old-piles-of-grass-and-ash/?utm_campaign=RSS%7CNSNS&#038;utm_source=NSNS&#038;utm_medium=RSS&#038;utm_content=news</link>
+            <pubDate>Thu, 13 Aug 2020 19:00:05 +0000</pubDate>
+            <description>Grass bedding in South Africa’s Border cave dates back 227,000 years, and was put on top of ash to help keep biting insects away</description>
+            <guid isPermaLink="false">2251738-earliest-known-beds-are-227000-year-old-piles-of-grass-and-ash|2251738</guid>
+        </item>
+            <item>
+            <title>Everything you need to know about Russia&#039;s coronavirus vaccine claims</title>
+            <link>https://www.newscientist.com/article/2251722-everything-you-need-to-know-about-russias-coronavirus-vaccine-claims/?utm_campaign=RSS%7CNSNS&#038;utm_source=NSNS&#038;utm_medium=RSS&#038;utm_content=news</link>
+            <pubDate>Wed, 12 Aug 2020 18:10:48 +0000</pubDate>
+            <description>Russia has given regulatory approval to a covid-19 vaccine, amid concerns about the level of testing it has undergone. Here&#039;s what you need to know about the Sputnik V vaccine</description>
+            <guid isPermaLink="false">2251722-everything-you-need-to-know-about-russias-coronavirus-vaccine-claims|2251722</guid>
+        </item>
+            <item>
+            <title>Trilobites living 429 million years ago had eyes like modern insects</title>
+            <link>https://www.newscientist.com/article/2251851-trilobites-living-429-million-years-ago-had-eyes-like-modern-insects/?utm_campaign=RSS%7CNSNS&#038;utm_source=NSNS&#038;utm_medium=RSS&#038;utm_content=news</link>
+            <pubDate>Thu, 13 Aug 2020 16:00:44 +0000</pubDate>
+            <description>A compound eye almost identical to those of modern bees and dragonflies has been found in a fossil trilobite that lived on the seabed 429 million years ago</description>
+            <guid isPermaLink="false">2251851-trilobites-living-429-million-years-ago-had-eyes-like-modern-insects|2251851</guid>
+        </item>
+            <item>
+            <title>Why dark matter should be called something else</title>
+            <link>https://www.newscientist.com/article/mg24732951-100-why-dark-matter-should-be-called-something-else/?utm_campaign=RSS%7CNSNS&#038;utm_source=NSNS&#038;utm_medium=RSS&#038;utm_content=news</link>
+            <pubDate>Wed, 12 Aug 2020 18:00:00 +0000</pubDate>
+            <description>There are many things that we don&#039;t understand about dark matter, but whether it is actually dark isn&#039;t one of them, writes Chanda Prescod-Weinstein</description>
+            <guid isPermaLink="false">mg24732951-100-why-dark-matter-should-be-called-something-else|2251464</guid>
+        </item>
+            <item>
+            <title>Magnetic levitation can be used to separate the living from the dead</title>
+            <link>https://www.newscientist.com/article/2251277-magnetic-levitation-can-be-used-to-separate-the-living-from-the-dead/?utm_campaign=RSS%7CNSNS&#038;utm_source=NSNS&#038;utm_medium=RSS&#038;utm_content=news</link>
+            <pubDate>Thu, 13 Aug 2020 11:59:13 +0000</pubDate>
+            <description>A form of magnetic levitation can separate living and dead cells, which could help in everything from drug discovery to tissue engineering</description>
+            <guid isPermaLink="false">2251277-magnetic-levitation-can-be-used-to-separate-the-living-from-the-dead|2251277</guid>
+        </item>
+            <item>
+            <title>Treats are better than electric shocks for training badly behaved dogs</title>
+            <link>https://www.newscientist.com/article/2251578-treats-are-better-than-electric-shocks-for-training-badly-behaved-dogs/?utm_campaign=RSS%7CNSNS&#038;utm_source=NSNS&#038;utm_medium=RSS&#038;utm_content=news</link>
+            <pubDate>Thu, 13 Aug 2020 10:00:33 +0000</pubDate>
+            <description>When it comes to training badly behaved dogs, treats and rewards produce better and quicker results than electric shock collars</description>
+            <guid isPermaLink="false">2251578-treats-are-better-than-electric-shocks-for-training-badly-behaved-dogs|2251578</guid>
+        </item>
+            <item>
+            <title>Snapped cable slashes a devastating hole in Arecibo radio telescope</title>
+            <link>https://www.newscientist.com/article/2251796-snapped-cable-slashes-a-devastating-hole-in-arecibo-radio-telescope/?utm_campaign=RSS%7CNSNS&#038;utm_source=NSNS&#038;utm_medium=RSS&#038;utm_content=news</link>
+            <pubDate>Thu, 13 Aug 2020 09:26:22 +0000</pubDate>
+            <description>As Tropical Storm Isaias hit Puerto Rico, a thick cable snapped at Arecibo Observatory – one of the biggest radio telescopes in the world – and crashed through the dish</description>
+            <guid isPermaLink="false">2251796-snapped-cable-slashes-a-devastating-hole-in-arecibo-radio-telescope|2251796</guid>
+        </item>
+            <item>
+            <title>Stone Age people were cremating their dead about 9000 years ago</title>
+            <link>https://www.newscientist.com/article/2251443-stone-age-people-were-cremating-their-dead-about-9000-years-ago/?utm_campaign=RSS%7CNSNS&#038;utm_source=NSNS&#038;utm_medium=RSS&#038;utm_content=news</link>
+            <pubDate>Wed, 12 Aug 2020 19:00:30 +0000</pubDate>
+            <description>A 9000-year-old cremation in Israel may help identify when in prehistory people began changing their burial practices and perhaps their religious beliefs too</description>
+            <guid isPermaLink="false">2251443-stone-age-people-were-cremating-their-dead-about-9000-years-ago|2251443</guid>
+        </item>
+            <item>
+            <title>Blue whirl that consumes all fuel it encounters is three flames in one</title>
+            <link>https://www.newscientist.com/article/2251703-blue-whirl-that-consumes-all-fuel-it-encounters-is-three-flames-in-one/?utm_campaign=RSS%7CNSNS&#038;utm_source=NSNS&#038;utm_medium=RSS&#038;utm_content=news</link>
+            <pubDate>Wed, 12 Aug 2020 19:00:25 +0000</pubDate>
+            <description>A mysterious blue whirl that burns fuel efficiently is composed of three separate flames – a discovery that could help us generate the whirl for real-world applications</description>
+            <guid isPermaLink="false">2251703-blue-whirl-that-consumes-all-fuel-it-encounters-is-three-flames-in-one|2251703</guid>
+        </item>
+            <item>
+            <title>Male Brazilian frog stays loyal to two females during breeding season</title>
+            <link>https://www.newscientist.com/article/2251718-male-brazilian-frog-stays-loyal-to-two-females-during-breeding-season/?utm_campaign=RSS%7CNSNS&#038;utm_source=NSNS&#038;utm_medium=RSS&#038;utm_content=news</link>
+            <pubDate>Wed, 12 Aug 2020 19:00:09 +0000</pubDate>
+            <description>The males of a Brazilian frog species are the first amphibians known to stay faithful to two females throughout their breeding season, replicating a style of mating seen in mammals</description>
+            <guid isPermaLink="false">2251718-male-brazilian-frog-stays-loyal-to-two-females-during-breeding-season|2251718</guid>
+        </item>
+            <item>
+            <title>Nations buying up covid-19 vaccine doses endanger pandemic efforts</title>
+            <link>https://www.newscientist.com/article/mg24732953-600-nations-buying-up-covid-19-vaccine-doses-endanger-pandemic-efforts/?utm_campaign=RSS%7CNSNS&#038;utm_source=NSNS&#038;utm_medium=RSS&#038;utm_content=news</link>
+            <pubDate>Wed, 12 Aug 2020 18:00:00 +0000</pubDate>
+            <description>A vaccine against the coronavirus needs to reach vulnerable people in all countries if we want to stop the virus, but some countries are buying up future stocks to protect their nationals</description>
+            <guid isPermaLink="false">mg24732953-600-nations-buying-up-covid-19-vaccine-doses-endanger-pandemic-efforts|2251684</guid>
+        </item>
+            <item>
+            <title>A chemical that encourages locusts to swarm could also help stop them</title>
+            <link>https://www.newscientist.com/article/2251660-a-chemical-that-encourages-locusts-to-swarm-could-also-help-stop-them/?utm_campaign=RSS%7CNSNS&#038;utm_source=NSNS&#038;utm_medium=RSS&#038;utm_content=news</link>
+            <pubDate>Wed, 12 Aug 2020 16:00:25 +0000</pubDate>
+            <description>A pheromone released by migratory locusts seems to encourage them to swarm, so placing it on sticky traps that attract the insects could stop them from devastating crops</description>
+            <guid isPermaLink="false">2251660-a-chemical-that-encourages-locusts-to-swarm-could-also-help-stop-them|2251660</guid>
+        </item>
+            <item>
+            <title>Ancient serene galaxy suggests the early universe was eerily calm</title>
+            <link>https://www.newscientist.com/article/2251569-ancient-serene-galaxy-suggests-the-early-universe-was-eerily-calm/?utm_campaign=RSS%7CNSNS&#038;utm_source=NSNS&#038;utm_medium=RSS&#038;utm_content=news</link>
+            <pubDate>Wed, 12 Aug 2020 16:00:06 +0000</pubDate>
+            <description>A strange &quot;coffee stain&quot; galaxy in the early universe is much calmer than it ought to be, which may mean our ideas about a chaotic young universe could be wrong</description>
+            <guid isPermaLink="false">2251569-ancient-serene-galaxy-suggests-the-early-universe-was-eerily-calm|2251569</guid>
+        </item>
+            <item>
+            <title>If we ever make a covid-19 vaccine who should be first to get it?</title>
+            <link>https://www.newscientist.com/article/mg24732953-500-if-we-ever-make-a-covid-19-vaccine-who-should-be-first-to-get-it/?utm_campaign=RSS%7CNSNS&#038;utm_source=NSNS&#038;utm_medium=RSS&#038;utm_content=news</link>
+            <pubDate>Wed, 12 Aug 2020 14:15:00 +0000</pubDate>
+            <description>It will take at least a year to make the billions of vaccine doses needed to protect everyone, so tough decisions will have to be made about who is top priority</description>
+            <guid isPermaLink="false">mg24732953-500-if-we-ever-make-a-covid-19-vaccine-who-should-be-first-to-get-it|2251683</guid>
+        </item>
+            <item>
+            <title>Fire and melting ice: The Arctic is having a terrifyingly bad year</title>
+            <link>https://www.newscientist.com/article/mg24732953-200-fire-and-melting-ice-the-arctic-is-having-a-terrifyingly-bad-year/?utm_campaign=RSS%7CNSNS&#038;utm_source=NSNS&#038;utm_medium=RSS&#038;utm_content=news</link>
+            <pubDate>Wed, 12 Aug 2020 13:48:00 +0000</pubDate>
+            <description>As records tumble, 2020 has been an extraordinary year for the Arctic – and there is more to come unless we take action on climate change</description>
+            <guid isPermaLink="false">mg24732953-200-fire-and-melting-ice-the-arctic-is-having-a-terrifyingly-bad-year|2251541</guid>
+        </item>
+            <item>
+            <title>Covid-19 lockdown means 115 million Indian children risk malnutrition</title>
+            <link>https://www.newscientist.com/article/2251523-covid-19-lockdown-means-115-million-indian-children-risk-malnutrition/?utm_campaign=RSS%7CNSNS&#038;utm_source=NSNS&#038;utm_medium=RSS&#038;utm_content=news</link>
+            <pubDate>Wed, 12 Aug 2020 10:00:21 +0000</pubDate>
+            <description>India operates the world&#039;s largest free school lunch programme in an effort to combat childhood malnutrition, but the lockdown to halt the spread of the coronavirus has left many without a meal</description>
+            <guid isPermaLink="false">2251523-covid-19-lockdown-means-115-million-indian-children-risk-malnutrition|2251523</guid>
+        </item>
+            <item>
+            <title>Grey reef sharks hang out with the same friends year after year</title>
+            <link>https://www.newscientist.com/article/2251548-grey-reef-sharks-hang-out-with-the-same-friends-year-after-year/?utm_campaign=RSS%7CNSNS&#038;utm_source=NSNS&#038;utm_medium=RSS&#038;utm_content=news</link>
+            <pubDate>Wed, 12 Aug 2020 00:01:20 +0000</pubDate>
+            <description>A four-year study at a Pacific atoll revealed that grey reef sharks keep company with the same individuals, but how they recognise other group members is a mystery</description>
+            <guid isPermaLink="false">2251548-grey-reef-sharks-hang-out-with-the-same-friends-year-after-year|2251548</guid>
+        </item>
+            <item>
+            <title>How to hug people in a coronavirus-stricken world</title>
+            <link>https://www.newscientist.com/article/mg24732944-300-how-to-hug-people-in-a-coronavirus-stricken-world/?utm_campaign=RSS%7CNSNS&#038;utm_source=NSNS&#038;utm_medium=RSS&#038;utm_content=news</link>
+            <pubDate>Wed, 05 Aug 2020 11:15:00 +0000</pubDate>
+            <description>Hugging has benefits for our health that might make it worth doing despite coronavirus risks – here’s how to reduce the chance you’ll pass on the virus</description>
+            <guid isPermaLink="false">mg24732944-300-how-to-hug-people-in-a-coronavirus-stricken-world|2250963</guid>
+        </item>
+            <item>
+            <title>AI mimics the way doctors think to make better medical diagnoses</title>
+            <link>https://www.newscientist.com/article/2251492-ai-mimics-the-way-doctors-think-to-make-better-medical-diagnoses/?utm_campaign=RSS%7CNSNS&#038;utm_source=NSNS&#038;utm_medium=RSS&#038;utm_content=news</link>
+            <pubDate>Tue, 11 Aug 2020 16:00:47 +0000</pubDate>
+            <description>Most medical AI systems make treatment recommendations based on correlations between symptoms and illnesses – a new AI system uses causation instead, like doctors do</description>
+            <guid isPermaLink="false">2251492-ai-mimics-the-way-doctors-think-to-make-better-medical-diagnoses|2251492</guid>
+        </item>
+            <item>
+            <title>Ordinary bricks laced with conductive fibres can store energy</title>
+            <link>https://www.newscientist.com/article/2251449-ordinary-bricks-laced-with-conductive-fibres-can-store-energy/?utm_campaign=RSS%7CNSNS&#038;utm_source=NSNS&#038;utm_medium=RSS&#038;utm_content=news</link>
+            <pubDate>Tue, 11 Aug 2020 16:00:22 +0000</pubDate>
+            <description>Regular bricks can be turned into energy storage devices through a process that uses their red pigment to create a network of conductive fibres inside the bricks</description>
+            <guid isPermaLink="false">2251449-ordinary-bricks-laced-with-conductive-fibres-can-store-energy|2251449</guid>
+        </item>
+            <item>
+            <title>Baby-mounted cameras teach AI to ‘see’ through a child’s eyes</title>
+            <link>https://www.newscientist.com/article/2251529-baby-mounted-cameras-teach-ai-to-see-through-a-childs-eyes/?utm_campaign=RSS%7CNSNS&#038;utm_source=NSNS&#038;utm_medium=RSS&#038;utm_content=news</link>
+            <pubDate>Tue, 11 Aug 2020 14:35:22 +0000</pubDate>
+            <description>An AI has learned to recognise objects using video captured by a head-mounted camera worn by young children for a few hours per week over their first 3 years of life</description>
+            <guid isPermaLink="false">2251529-baby-mounted-cameras-teach-ai-to-see-through-a-childs-eyes|2251529</guid>
+        </item>
+            <item>
+            <title>Is police use of face recognition now illegal in the UK?</title>
+            <link>https://www.newscientist.com/article/2251508-is-police-use-of-face-recognition-now-illegal-in-the-uk/?utm_campaign=RSS%7CNSNS&#038;utm_source=NSNS&#038;utm_medium=RSS&#038;utm_content=news</link>
+            <pubDate>Tue, 11 Aug 2020 13:31:55 +0000</pubDate>
+            <description>The UK Court of Appeal has determined that the use of a face-recognition system by South Wales Police was “unlawful”, which could have ramifications for the widespread use of such technology across the UK</description>
+            <guid isPermaLink="false">2251508-is-police-use-of-face-recognition-now-illegal-in-the-uk|2251508</guid>
+        </item>
+            <item>
+            <title>We don&#039;t know how accurate the UK&#039;s new rapid coronavirus tests are</title>
+            <link>https://www.newscientist.com/article/2251427-we-dont-know-how-accurate-the-uks-new-rapid-coronavirus-tests-are/?utm_campaign=RSS%7CNSNS&#038;utm_source=NSNS&#038;utm_medium=RSS&#038;utm_content=news</link>
+            <pubDate>Tue, 11 Aug 2020 12:33:09 +0000</pubDate>
+            <description>Two new tests that diagnose covid-19 within 90 minutes are being rolled out by the UK government – and while both are promising, neither is supported by publicly available, independent evidence</description>
+            <guid isPermaLink="false">2251427-we-dont-know-how-accurate-the-uks-new-rapid-coronavirus-tests-are|2251427</guid>
+        </item>
+            <item>
+            <title>Menopausal woman gives birth after blood plasma injection in ovaries</title>
+            <link>https://www.newscientist.com/article/2251489-menopausal-woman-gives-birth-after-blood-plasma-injection-in-ovaries/?utm_campaign=RSS%7CNSNS&#038;utm_source=NSNS&#038;utm_medium=RSS&#038;utm_content=news</link>
+            <pubDate>Tue, 11 Aug 2020 11:38:40 +0000</pubDate>
+            <description>Five out of 60 women who were menopausal or transiting into the menopause became pregnant after having their own blood plasma injected into their ovaries, according to results of a pilot study</description>
+            <guid isPermaLink="false">2251489-menopausal-woman-gives-birth-after-blood-plasma-injection-in-ovaries|2251489</guid>
+        </item>
+            <item>
+            <title>Vaccine for major common cold virus could be ready for use by 2024</title>
+            <link>https://www.newscientist.com/article/2251437-vaccine-for-major-common-cold-virus-could-be-ready-for-use-by-2024/?utm_campaign=RSS%7CNSNS&#038;utm_source=NSNS&#038;utm_medium=RSS&#038;utm_content=news</link>
+            <pubDate>Tue, 11 Aug 2020 08:00:39 +0000</pubDate>
+            <description>A clinical trial involving 420 people suggests that a vaccine for respiratory syncytial virus – a major cause of common colds – is safe and effective</description>
+            <guid isPermaLink="false">2251437-vaccine-for-major-common-cold-virus-could-be-ready-for-use-by-2024|2251437</guid>
+        </item>
+            <item>
+            <title>Fatal cardiac arrests could be hiding opioid overdose deaths in the US</title>
+            <link>https://www.newscientist.com/article/2251376-fatal-cardiac-arrests-could-be-hiding-opioid-overdose-deaths-in-the-us/?utm_campaign=RSS%7CNSNS&#038;utm_source=NSNS&#038;utm_medium=RSS&#038;utm_content=news</link>
+            <pubDate>Mon, 10 Aug 2020 22:00:57 +0000</pubDate>
+            <description>A study in San Francisco has found that 17 per cent of deaths ascribed to cardiac arrest were actually caused by drug overdose, most commonly opioids</description>
+            <guid isPermaLink="false">2251376-fatal-cardiac-arrests-could-be-hiding-opioid-overdose-deaths-in-the-us|2251376</guid>
+        </item>
+            <item>
+            <title>Dwarf planet Ceres may be home to an underground ocean</title>
+            <link>https://www.newscientist.com/article/2251403-dwarf-planet-ceres-may-be-home-to-an-underground-ocean/?utm_campaign=RSS%7CNSNS&#038;utm_source=NSNS&#038;utm_medium=RSS&#038;utm_content=news</link>
+            <pubDate>Mon, 10 Aug 2020 16:00:34 +0000</pubDate>
+            <description>New analysis of data from the Dawn spacecraft suggests there may be a liquid water ocean beneath the Occator crater on Ceres, the largest asteroid in the solar system</description>
+            <guid isPermaLink="false">2251403-dwarf-planet-ceres-may-be-home-to-an-underground-ocean|2251403</guid>
+        </item>
+            <item>
+            <title>Fabric repels both oil and water thanks to clever silicone coating</title>
+            <link>https://www.newscientist.com/article/2251388-fabric-repels-both-oil-and-water-thanks-to-clever-silicone-coating/?utm_campaign=RSS%7CNSNS&#038;utm_source=NSNS&#038;utm_medium=RSS&#038;utm_content=news</link>
+            <pubDate>Mon, 10 Aug 2020 16:00:28 +0000</pubDate>
+            <description>By studying a fabric’s weave, it’s possible to design an environmentally friendly silicone coating for the individual fibres that makes the material oil and water-repellent</description>
+            <guid isPermaLink="false">2251388-fabric-repels-both-oil-and-water-thanks-to-clever-silicone-coating|2251388</guid>
+        </item>
+            <item>
+            <title>Eardrum implants made from pig guts could fix chronic glue ear</title>
+            <link>https://www.newscientist.com/article/2251378-eardrum-implants-made-from-pig-guts-could-fix-chronic-glue-ear/?utm_campaign=RSS%7CNSNS&#038;utm_source=NSNS&#038;utm_medium=RSS&#038;utm_content=news</link>
+            <pubDate>Mon, 10 Aug 2020 11:58:49 +0000</pubDate>
+            <description>Glue ear, a condition caused by sticky fluid in the middle part of the ear, can burst the eardrum in severe cases, and tissue taken from pig intestines could be used to patch up the hole</description>
+            <guid isPermaLink="false">2251378-eardrum-implants-made-from-pig-guts-could-fix-chronic-glue-ear|2251378</guid>
+        </item>
+            <item>
+            <title>Forget about blame with miscarriage: its function is entirely natural</title>
+            <link>https://www.newscientist.com/article/mg24732943-900-forget-about-blame-with-miscarriage-its-function-is-entirely-natural/?utm_campaign=RSS%7CNSNS&#038;utm_source=NSNS&#038;utm_medium=RSS&#038;utm_content=news</link>
+            <pubDate>Wed, 05 Aug 2020 18:00:00 +0000</pubDate>
+            <description>Many women blame themselves after pregnancy loss and some societies point the finger too, but fertility medicine is busting such miscarriage myths</description>
+            <guid isPermaLink="false">mg24732943-900-forget-about-blame-with-miscarriage-its-function-is-entirely-natural|2250959</guid>
+        </item>
+            <item>
+            <title>Physicists have a massive problem as Higgs boson refuses to misbehave</title>
+            <link>https://www.newscientist.com/article/2251285-physicists-have-a-massive-problem-as-higgs-boson-refuses-to-misbehave/?utm_campaign=RSS%7CNSNS&#038;utm_source=NSNS&#038;utm_medium=RSS&#038;utm_content=news</link>
+            <pubDate>Fri, 07 Aug 2020 14:00:17 +0000</pubDate>
+            <description>Physicists at CERN hope seeing the Higgs boson do something unexpected could reveal why different particles vary in mass, but so far it is behaving exactly as predicted</description>
+            <guid isPermaLink="false">2251285-physicists-have-a-massive-problem-as-higgs-boson-refuses-to-misbehave|2251285</guid>
+        </item>
+            <item>
+            <title>How covid-19 spawned a plastic pandemic – and what we can do about it</title>
+            <link>https://www.newscientist.com/article/2251045-how-covid-19-spawned-a-plastic-pandemic-and-what-we-can-do-about-it/?utm_campaign=RSS%7CNSNS&#038;utm_source=NSNS&#038;utm_medium=RSS&#038;utm_content=news</link>
+            <pubDate>Fri, 07 Aug 2020 12:00:48 +0000</pubDate>
+            <description>Hygiene fears and the demand for masks have unleashed a plastic pollution pandemic, while industry lobbyists are pushing to roll back bans on single-use plastics</description>
+            <guid isPermaLink="false">2251045-how-covid-19-spawned-a-plastic-pandemic-and-what-we-can-do-about-it|2251045</guid>
+        </item>
+            <item>
+            <title>An AI can make selfies look like they’re not selfies</title>
+            <link>https://www.newscientist.com/article/2251262-an-ai-can-make-selfies-look-like-theyre-not-selfies/?utm_campaign=RSS%7CNSNS&#038;utm_source=NSNS&#038;utm_medium=RSS&#038;utm_content=news</link>
+            <pubDate>Fri, 07 Aug 2020 10:00:19 +0000</pubDate>
+            <description>Computer software can now edit selfie photos so it doesn’t appear the person in the image is holding the camera in their outstretched arm</description>
+            <guid isPermaLink="false">2251262-an-ai-can-make-selfies-look-like-theyre-not-selfies|2251262</guid>
+        </item>
+            <item>
+            <title>Covid-19 lockdowns will have little lasting impact on global warming</title>
+            <link>https://www.newscientist.com/article/2251313-covid-19-lockdowns-will-have-little-lasting-impact-on-global-warming/?utm_campaign=RSS%7CNSNS&#038;utm_source=NSNS&#038;utm_medium=RSS&#038;utm_content=news</link>
+            <pubDate>Fri, 07 Aug 2020 10:00:19 +0000</pubDate>
+            <description>Global lockdowns to halt the spread of the coronavirus will have a negligible impact on global warming, researchers have found. If measures stay in place until 2021, global temperatures will only be 0.01°C lower than expected by 2030</description>
+            <guid isPermaLink="false">2251313-covid-19-lockdowns-will-have-little-lasting-impact-on-global-warming|2251313</guid>
+        </item>
+            <item>
+            <title>Obesity may cause cancer simply because larger organs have more cells</title>
+            <link>https://www.newscientist.com/article/2251240-obesity-may-cause-cancer-simply-because-larger-organs-have-more-cells/?utm_campaign=RSS%7CNSNS&#038;utm_source=NSNS&#038;utm_medium=RSS&#038;utm_content=news</link>
+            <pubDate>Fri, 07 Aug 2020 08:00:30 +0000</pubDate>
+            <description>We’ve just discovered that people who are obese have larger organs and thus more cells that might mutate, which could explain their higher risk of getting some cancers</description>
+            <guid isPermaLink="false">2251240-obesity-may-cause-cancer-simply-because-larger-organs-have-more-cells|2251240</guid>
+        </item>
+            <item>
+            <title>We just figured out why shaving soft hair blunts steel razor blades</title>
+            <link>https://www.newscientist.com/article/2251202-we-just-figured-out-why-shaving-soft-hair-blunts-steel-razor-blades/?utm_campaign=RSS%7CNSNS&#038;utm_source=NSNS&#038;utm_medium=RSS&#038;utm_content=news</link>
+            <pubDate>Thu, 06 Aug 2020 19:00:52 +0000</pubDate>
+            <description>Cutting soft materials like hair can blunt even the sharpest blades surprisingly quickly, and now we know why – offering clues to designing longer-lasting razors</description>
+            <guid isPermaLink="false">2251202-we-just-figured-out-why-shaving-soft-hair-blunts-steel-razor-blades|2251202</guid>
+        </item>
+            <item>
+            <title>Maps of the sun’s corona could help us predict dangerous solar storms</title>
+            <link>https://www.newscientist.com/article/2251150-maps-of-the-suns-corona-could-help-us-predict-dangerous-solar-storms/?utm_campaign=RSS%7CNSNS&#038;utm_source=NSNS&#038;utm_medium=RSS&#038;utm_content=news</link>
+            <pubDate>Thu, 06 Aug 2020 19:00:01 +0000</pubDate>
+            <description>The tenuous outermost layer of the sun, called the corona, is invisible most of the time, but its magnetic fields have been mapped for the first time</description>
+            <guid isPermaLink="false">2251150-maps-of-the-suns-corona-could-help-us-predict-dangerous-solar-storms|2251150</guid>
+        </item>
+            <item>
+            <title>Super-bright fluorescent solids can be 3D printed in any shape</title>
+            <link>https://www.newscientist.com/article/2251234-super-bright-fluorescent-solids-can-be-3d-printed-in-any-shape/?utm_campaign=RSS%7CNSNS&#038;utm_source=NSNS&#038;utm_medium=RSS&#038;utm_content=news</link>
+            <pubDate>Thu, 06 Aug 2020 16:00:40 +0000</pubDate>
+            <description>There’s a cheap new way to make fluorescent dyes into solid materials that glow, and it could be used to 3D print objects that guide light into solar cells</description>
+            <guid isPermaLink="false">2251234-super-bright-fluorescent-solids-can-be-3d-printed-in-any-shape|2251234</guid>
+        </item>
+            <item>
+            <title>Bizarre fossil with an incredibly long neck was a marine hunter</title>
+            <link>https://www.newscientist.com/article/2251211-bizarre-fossil-with-an-incredibly-long-neck-was-a-marine-hunter/?utm_campaign=RSS%7CNSNS&#038;utm_source=NSNS&#038;utm_medium=RSS&#038;utm_content=news</link>
+            <pubDate>Thu, 06 Aug 2020 16:00:30 +0000</pubDate>
+            <description>Tanystropheus had a neck three times the length of its body, and a new analysis of its skull suggests it lived in the sea, where it ambushed prey</description>
+            <guid isPermaLink="false">2251211-bizarre-fossil-with-an-incredibly-long-neck-was-a-marine-hunter|2251211</guid>
+        </item>
+            <item>
+            <title>Fruit flies have special neurons that sense the wind to aid navigation</title>
+            <link>https://www.newscientist.com/article/2251253-fruit-flies-have-special-neurons-that-sense-the-wind-to-aid-navigation/?utm_campaign=RSS%7CNSNS&#038;utm_source=NSNS&#038;utm_medium=RSS&#038;utm_content=news</link>
+            <pubDate>Thu, 06 Aug 2020 15:39:46 +0000</pubDate>
+            <description>Neurons have been discovered in the brains of fruit flies that are used for working out which way to fly based on the wind. The finding could be used to help robots navigate</description>
+            <guid isPermaLink="false">2251253-fruit-flies-have-special-neurons-that-sense-the-wind-to-aid-navigation|2251253</guid>
+        </item>
+            <item>
+            <title>Nutrition memes forget that there is no such thing as a &#039;healthy food&#039;</title>
+            <link>https://www.newscientist.com/article/mg24732940-200-nutrition-memes-forget-that-there-is-no-such-thing-as-a-healthy-food/?utm_campaign=RSS%7CNSNS&#038;utm_source=NSNS&#038;utm_medium=RSS&#038;utm_content=news</link>
+            <pubDate>Wed, 05 Aug 2020 18:00:00 +0000</pubDate>
+            <description>Shareable online graphics give easy to understand breakdowns of the nutritional content of food, but they may be misleading, says James Wong</description>
+            <guid isPermaLink="false">mg24732940-200-nutrition-memes-forget-that-there-is-no-such-thing-as-a-healthy-food|2250857</guid>
+        </item>
+            <item>
+            <title>In-ear nerve-stimulating device helps people learning a new language</title>
+            <link>https://www.newscientist.com/article/2251189-in-ear-nerve-stimulating-device-helps-people-learning-a-new-language/?utm_campaign=RSS%7CNSNS&#038;utm_source=NSNS&#038;utm_medium=RSS&#038;utm_content=news</link>
+            <pubDate>Thu, 06 Aug 2020 10:00:04 +0000</pubDate>
+            <description>An in-ear device that stimulates the vagus nerve helps non-native speakers learn speech sounds from Mandarin Chinese more rapidly and more effectively</description>
+            <guid isPermaLink="false">2251189-in-ear-nerve-stimulating-device-helps-people-learning-a-new-language|2251189</guid>
+        </item>
+            <item>
+            <title>What Hiroshima teaches us about coronavirus and the future of humanity</title>
+            <link>https://www.newscientist.com/article/mg24732940-100-what-hiroshima-teaches-us-about-coronavirus-and-the-future-of-humanity/?utm_campaign=RSS%7CNSNS&#038;utm_source=NSNS&#038;utm_medium=RSS&#038;utm_content=news</link>
+            <pubDate>Wed, 05 Aug 2020 18:00:00 +0000</pubDate>
+            <description>The nuclear bomb told us we are the greatest threat to our own survival – and the covid-19 pandemic shows the lessons still to learn, say Anders Sandberg and Thomas Moynihan</description>
+            <guid isPermaLink="false">mg24732940-100-what-hiroshima-teaches-us-about-coronavirus-and-the-future-of-humanity|2250856</guid>
+        </item>
+            <item>
+            <title>Deep-sea microbes survive on less energy than we thought possible</title>
+            <link>https://www.newscientist.com/article/2251074-deep-sea-microbes-survive-on-less-energy-than-we-thought-possible/?utm_campaign=RSS%7CNSNS&#038;utm_source=NSNS&#038;utm_medium=RSS&#038;utm_content=news</link>
+            <pubDate>Wed, 05 Aug 2020 19:00:26 +0000</pubDate>
+            <description>We thought we understood life’s minimal energy requirements – but microbes beneath the sea floor survive on hundreds of times less energy than we considered possible</description>
+            <guid isPermaLink="false">2251074-deep-sea-microbes-survive-on-less-energy-than-we-thought-possible|2251074</guid>
+        </item>
+            <item>
+            <title>Beirut explosion: What caused the blast and what else do we know?</title>
+            <link>https://www.newscientist.com/article/2251076-beirut-explosion-what-caused-the-blast-and-what-else-do-we-know/?utm_campaign=RSS%7CNSNS&#038;utm_source=NSNS&#038;utm_medium=RSS&#038;utm_content=news</link>
+            <pubDate>Wed, 05 Aug 2020 16:38:25 +0000</pubDate>
+            <description>Here&#039;s what we know so far about the cause of the massive blast in the port area of the city of Beirut, Lebanon, on 4 August</description>
+            <guid isPermaLink="false">2251076-beirut-explosion-what-caused-the-blast-and-what-else-do-we-know|2251076</guid>
+        </item>
+            <item>
+            <title>Disease-carrying animals thrive on our farmed land and in our cities</title>
+            <link>https://www.newscientist.com/article/2250927-disease-carrying-animals-thrive-on-our-farmed-land-and-in-our-cities/?utm_campaign=RSS%7CNSNS&#038;utm_source=NSNS&#038;utm_medium=RSS&#038;utm_content=news</link>
+            <pubDate>Wed, 05 Aug 2020 16:00:17 +0000</pubDate>
+            <description>Farming and other human activities are changing the world in a way that favours animals carrying more diseases, including bats – the source of the new coronavirus</description>
+            <guid isPermaLink="false">2250927-disease-carrying-animals-thrive-on-our-farmed-land-and-in-our-cities|2250927</guid>
+        </item>
+            <item>
+            <title>Strange lightning on Jupiter may be caused by ammonia snowballs</title>
+            <link>https://www.newscientist.com/article/2250851-strange-lightning-on-jupiter-may-be-caused-by-ammonia-snowballs/?utm_campaign=RSS%7CNSNS&#038;utm_source=NSNS&#038;utm_medium=RSS&#038;utm_content=news</link>
+            <pubDate>Wed, 05 Aug 2020 16:00:04 +0000</pubDate>
+            <description>The Juno spacecraft has spotted lightning on Jupiter that’s unlike anything we’ve seen before, and it may be caused by strange, slushy balls of ammonia and ice</description>
+            <guid isPermaLink="false">2250851-strange-lightning-on-jupiter-may-be-caused-by-ammonia-snowballs|2250851</guid>
+        </item>
+            <item>
+            <title>Coronavirus pandemic shows no sign of slowing across South America</title>
+            <link>https://www.newscientist.com/article/2250947-coronavirus-pandemic-shows-no-sign-of-slowing-across-south-america/?utm_campaign=RSS%7CNSNS&#038;utm_source=NSNS&#038;utm_medium=RSS&#038;utm_content=news</link>
+            <pubDate>Wed, 05 Aug 2020 12:37:43 +0000</pubDate>
+            <description>Even after four months of strict lockdowns in some South American countries, cases of covid-19 are still soaring across the continent</description>
+            <guid isPermaLink="false">2250947-coronavirus-pandemic-shows-no-sign-of-slowing-across-south-america|2250947</guid>
+        </item>
+            <item>
+            <title>SpaceX’s prototype Mars rocket has flown for the first time</title>
+            <link>https://www.newscientist.com/article/2250944-spacexs-prototype-mars-rocket-has-flown-for-the-first-time/?utm_campaign=RSS%7CNSNS&#038;utm_source=NSNS&#038;utm_medium=RSS&#038;utm_content=news</link>
+            <pubDate>Wed, 05 Aug 2020 11:31:16 +0000</pubDate>
+            <description>A prototype of Starship, the rocket SpaceX intends to use to bring explorers to the moon and Mars, has hopped 150 metres into the air in its first flight</description>
+            <guid isPermaLink="false">2250944-spacexs-prototype-mars-rocket-has-flown-for-the-first-time|2250944</guid>
+        </item>
+            <item>
+            <title>Coronavirus: US has no cohesive plan to tackle massive second wave</title>
+            <link>https://www.newscientist.com/article/2250852-coronavirus-us-has-no-cohesive-plan-to-tackle-massive-second-wave/?utm_campaign=RSS%7CNSNS&#038;utm_source=NSNS&#038;utm_medium=RSS&#038;utm_content=news</link>
+            <pubDate>Tue, 04 Aug 2020 16:11:46 +0000</pubDate>
+            <description>The US is battling a massive second wave of coronavirus cases and has no cohesive national strategy to stop the spread</description>
+            <guid isPermaLink="false">2250852-coronavirus-us-has-no-cohesive-plan-to-tackle-massive-second-wave|2250852</guid>
+        </item>
+            <item>
+            <title>First poison arrows may have been loosed 70,000 years ago in Africa</title>
+            <link>https://www.newscientist.com/article/2250799-first-poison-arrows-may-have-been-loosed-70000-years-ago-in-africa/?utm_campaign=RSS%7CNSNS&#038;utm_source=NSNS&#038;utm_medium=RSS&#038;utm_content=news</link>
+            <pubDate>Tue, 04 Aug 2020 14:50:54 +0000</pubDate>
+            <description>Many ancient bone points are the same shape as poison-tipped arrowheads used today by San peoples in southern Africa, suggesting the practice is ancient</description>
+            <guid isPermaLink="false">2250799-first-poison-arrows-may-have-been-loosed-70000-years-ago-in-africa|2250799</guid>
+        </item>
+            <item>
+            <title>Termite intruders evolved cowardice to squat in another species’ nest</title>
+            <link>https://www.newscientist.com/article/2250732-termite-intruders-evolved-cowardice-to-squat-in-another-species-nest/?utm_campaign=RSS%7CNSNS&#038;utm_source=NSNS&#038;utm_medium=RSS&#038;utm_content=news</link>
+            <pubDate>Tue, 04 Aug 2020 12:00:02 +0000</pubDate>
+            <description>Inquiline termites can’t build their own nests and instead sneak into the homes built by another termite species. When the host attacks, the freeloaders run away</description>
+            <guid isPermaLink="false">2250732-termite-intruders-evolved-cowardice-to-squat-in-another-species-nest|2250732</guid>
+        </item>
+            <item>
+            <title>Quantum version of the ancient game of Go could be ultimate AI test</title>
+            <link>https://www.newscientist.com/article/2250551-quantum-version-of-the-ancient-game-of-go-could-be-ultimate-ai-test/?utm_campaign=RSS%7CNSNS&#038;utm_source=NSNS&#038;utm_medium=RSS&#038;utm_content=news</link>
+            <pubDate>Tue, 04 Aug 2020 08:00:19 +0000</pubDate>
+            <description>DeepMind’s AlphaZero AI has conquered Go, an ancient Chinese board game, to become the best player in the world, but a quantum version of the game is much harder</description>
+            <guid isPermaLink="false">2250551-quantum-version-of-the-ancient-game-of-go-could-be-ultimate-ai-test|2250551</guid>
+        </item>
+            <item>
+            <title>Skeletons reveal wealth gap in Europe began to open 6600 years ago</title>
+            <link>https://www.newscientist.com/article/2250673-skeletons-reveal-wealth-gap-in-europe-began-to-open-6600-years-ago/?utm_campaign=RSS%7CNSNS&#038;utm_source=NSNS&#038;utm_medium=RSS&#038;utm_content=news</link>
+            <pubDate>Tue, 04 Aug 2020 00:01:56 +0000</pubDate>
+            <description>Some early farmers at a site in Poland were buried with elaborate grave goods – now it seems these individuals also had access to more productive pastures</description>
+            <guid isPermaLink="false">2250673-skeletons-reveal-wealth-gap-in-europe-began-to-open-6600-years-ago|2250673</guid>
+        </item>
+            <item>
+            <title>Beautiful shell carving was part of Incan offering to Lake Titicaca</title>
+            <link>https://www.newscientist.com/article/2250701-beautiful-shell-carving-was-part-of-incan-offering-to-lake-titicaca/?utm_campaign=RSS%7CNSNS&#038;utm_source=NSNS&#038;utm_medium=RSS&#038;utm_content=news</link>
+            <pubDate>Tue, 04 Aug 2020 00:01:16 +0000</pubDate>
+            <description>A 500-year-old stone box found in Lake Titicaca contains a llama carved from mollusc shell and a miniature gold bracelet. They may have been part of a human sacrifice offering to the lake itself</description>
+            <guid isPermaLink="false">2250701-beautiful-shell-carving-was-part-of-incan-offering-to-lake-titicaca|2250701</guid>
+        </item>
+            <item>
+            <title>Opening schools in UK without more testing risks covid-19 second wave</title>
+            <link>https://www.newscientist.com/article/2250681-opening-schools-in-uk-without-more-testing-risks-covid-19-second-wave/?utm_campaign=RSS%7CNSNS&#038;utm_source=NSNS&#038;utm_medium=RSS&#038;utm_content=news</link>
+            <pubDate>Mon, 03 Aug 2020 23:30:47 +0000</pubDate>
+            <description>The UK faces a second wave of coronavirus infections this winter if the country’s testing and contact tracing system does not improve by the time schools reopen, researchers have warned</description>
+            <guid isPermaLink="false">2250681-opening-schools-in-uk-without-more-testing-risks-covid-19-second-wave|2250681</guid>
+        </item>
+            <item>
+            <title>Economic benefits of vaccination programmes vastly outweigh costs</title>
+            <link>https://www.newscientist.com/article/2250696-economic-benefits-of-vaccination-programmes-vastly-outweigh-costs/?utm_campaign=RSS%7CNSNS&#038;utm_source=NSNS&#038;utm_medium=RSS&#038;utm_content=news</link>
+            <pubDate>Mon, 03 Aug 2020 21:00:31 +0000</pubDate>
+            <description>The costs of vaccination programmes are outweighed 20 times by the economic benefits of reducing illness, disability and premature death, a model suggests</description>
+            <guid isPermaLink="false">2250696-economic-benefits-of-vaccination-programmes-vastly-outweigh-costs|2250696</guid>
+        </item>
+            <item>
+            <title>Chinese nature reserves focus so much on pandas that leopards suffer</title>
+            <link>https://www.newscientist.com/article/2250611-chinese-nature-reserves-focus-so-much-on-pandas-that-leopards-suffer/?utm_campaign=RSS%7CNSNS&#038;utm_source=NSNS&#038;utm_medium=RSS&#038;utm_content=news</link>
+            <pubDate>Mon, 03 Aug 2020 16:00:35 +0000</pubDate>
+            <description>China’s conservation efforts to save giant pandas have paid off for the bears, but miserably failed leopards and other carnivores that share their home</description>
+            <guid isPermaLink="false">2250611-chinese-nature-reserves-focus-so-much-on-pandas-that-leopards-suffer|2250611</guid>
+        </item>
+            <item>
+            <title>Ancient valleys on Mars may have been carved by glaciers</title>
+            <link>https://www.newscientist.com/article/2250398-ancient-valleys-on-mars-may-have-been-carved-by-glaciers/?utm_campaign=RSS%7CNSNS&#038;utm_source=NSNS&#038;utm_medium=RSS&#038;utm_content=news</link>
+            <pubDate>Mon, 03 Aug 2020 16:00:28 +0000</pubDate>
+            <description>Some areas on Mars are covered in huge valleys that many think were carved by rivers in the planet&#039;s warmer past, but they may have actually been formed by glaciers, pointing to a chilly early Mars</description>
+            <guid isPermaLink="false">2250398-ancient-valleys-on-mars-may-have-been-carved-by-glaciers|2250398</guid>
+        </item>
+            <item>
+            <title>The US may have the most to lose if Donald Trump bans TikTok</title>
+            <link>https://www.newscientist.com/article/2250658-the-us-may-have-the-most-to-lose-if-donald-trump-bans-tiktok/?utm_campaign=RSS%7CNSNS&#038;utm_source=NSNS&#038;utm_medium=RSS&#038;utm_content=news</link>
+            <pubDate>Mon, 03 Aug 2020 12:42:23 +0000</pubDate>
+            <description>A US ban of the Chinese video-sharing app TikTok could see countries developing their own versions of popular US-owned services as the internet splinters across national borders</description>
+            <guid isPermaLink="false">2250658-the-us-may-have-the-most-to-lose-if-donald-trump-bans-tiktok|2250658</guid>
+        </item>
+            <item>
+            <title>Finding coronavirus superspreaders may be key to halting a second wave</title>
+            <link>https://www.newscientist.com/article/2250375-finding-coronavirus-superspreaders-may-be-key-to-halting-a-second-wave/?utm_campaign=RSS%7CNSNS&#038;utm_source=NSNS&#038;utm_medium=RSS&#038;utm_content=news</link>
+            <pubDate>Thu, 30 Jul 2020 11:40:29 +0000</pubDate>
+            <description>The R number for coronavirus has had a lot of attention, but we also need to understand the K number – the variability in how many people one infects – to stop superspreading</description>
+            <guid isPermaLink="false">2250375-finding-coronavirus-superspreaders-may-be-key-to-halting-a-second-wave|2250375</guid>
+        </item>
+        </channel>
+</rss>
+<!-- generated="Mon, 24 Aug 2020 14:27:45 +0000" -->
